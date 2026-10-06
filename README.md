@@ -52,6 +52,7 @@ The various digital twins serve different purposes, including analysis, control,
 - [Digital Twin Technology](https://www.ntnu.edu/studies/courses/IP500520#tab=omEmnet)
 - [Digital Twins: Enhancing Model-based Design with AR, VR and MR](https://www.conted.ox.ac.uk/courses/digital-twins-enhancing-model-based-design-with-ar-vr-and-mr)
 - [Mark Rochon Distinguished Lecture Series: Constructing a Human Digital Twin](https://www.youtube.com/watch?v=AO8Q_YIjsis)
+- [Digital Twin Tutorial: Injection Molding Machine](https://git.rwth-aachen.de/monticore/umlp-anwendungen/digital-twin-tutorial) - Hands-on tutorial that builds a digital twin of an injection molding machine step by step from models. Try the [live demo](https://dtdemo.se.rwth-aachen.de/) and continue with the [project template](https://git.rwth-aachen.de/monticore/umlp-anwendungen/digital-twin-template) for your own twin.
 
 ## Initiatives
 
